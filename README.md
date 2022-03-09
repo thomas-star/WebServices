@@ -1,2 +1,2 @@
 # WebServices
-# Applications faites : 1/5
+# Applications : 1/5
